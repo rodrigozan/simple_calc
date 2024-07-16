@@ -1,0 +1,12 @@
+.main {
+  width: 40%;
+}
+.main .col {
+  margin: 1px;
+}
+.main .col .btn {
+  color: white;
+  --bs-btn-color: white !important;
+}
+
+/*# sourceMappingURL=main.css.map */

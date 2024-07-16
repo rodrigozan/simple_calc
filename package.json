@@ -1,0 +1,13 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "A simple calc developed in HTML, SCSS and JS",
+  "main": "assets/js/main.js",
+  "repository": "https://github.com/rodrigozan",
+  "author": "Rodrigo Zan",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "sass": "sass --watch assets/scss/main.scss assets/css/main.css"
+  }
+}

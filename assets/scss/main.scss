@@ -1,0 +1,11 @@
+.main {
+    width: 40%;
+    //background-color: #2A2A2A;
+    .col {
+        .btn {
+            color: white;
+            --bs-btn-color: white !important;
+        }
+        margin: 1px;
+    }
+}
